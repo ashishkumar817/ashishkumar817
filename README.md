@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;React+%7C+Flask+%7C+Python;Always+Learning+New+Technologies" />
+</p>
+
 <h3 align="center">
 Computer Science Engineering Undergraduate | Full-Stack Developer | AI & Machine Learning Enthusiast
 </h3>
